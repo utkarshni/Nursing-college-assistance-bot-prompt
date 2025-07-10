@@ -1,1 +1,0 @@
-# Nursing-college-assistance-bot-prompt
